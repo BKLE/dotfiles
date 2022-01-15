@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = seanbuckle@me.com
+	name = Sean Buckle
